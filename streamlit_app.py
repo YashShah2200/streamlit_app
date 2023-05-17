@@ -1,1 +1,3 @@
-my first stream lit file
+import streamlit
+
+streamlit.title("My Parents New Healty Dinner")
