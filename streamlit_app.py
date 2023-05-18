@@ -47,12 +47,4 @@ streamlit.text("Hello from Snowflake:")
 streamlit.text(my_data_rows)
 
 
-fruit_choice = streamlit.text_input('What fruit would you like insert')
-my_cur.execute("insert into fruit_load_list values(fruit_choice)")
-
-my_cur.execute("select * from pc_rivery_db.public.FRUIT_LOAD_LIST")
-my_data_rows = my_cur.fetchall()
-streamlit.text("Hello from Snowflake:")
-streamlit.text(my_data_rows)
-
 
