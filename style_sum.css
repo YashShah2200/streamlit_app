@@ -1,0 +1,156 @@
+body {
+    background-color: #f2f5f9 !important;
+}
+
+/* Hiding the header */
+.e8zbici2{
+    display: none;
+}
+
+
+.e1tzin5v2 {
+    box-shadow: 0px 5px 12px #D9DEE5;
+    border-radius: 2px;
+    background:#ffffff;
+}
+.css-keje6w.e1tzin5v2 {
+    padding: 15px;
+}
+.css-1wk3dql.e1tzin5v2, .css-1l269bu.e1tzin5v2, .css-tmwncs.e1tzin5v2 {
+    box-shadow: none;
+    background-color: transparent;
+}
+.css-j5r0tf.e1tzin5v2{
+    box-shadow: none;
+    background: transparent;
+}
+
+.css-1wk3dql.e1tzin5v2 .st-bv, .css-1l269bu.e1tzin5v2 .st-bv, .css-tmwncs.e1tzin5v2 .st-bv{
+    background-color:#fff;
+}
+.streamlit_box {
+
+}
+.streamlit_box .streamlit_row {
+    display:flex;
+    align-items:center;
+}
+.streamlit_box .streamlit_row .streamlit_col {
+    flex: 1;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 36.5px 15px;
+    width:50%;
+}
+.streamlit_box .streamlit_row:last-child .streamlit_col {
+    border-bottom:none;
+}
+.streamlit_box .streamlit_row .streamlit_col:last-child {
+    border-right: none;
+}
+.streamlit_box .streamlit_row .streamlit_col h3{
+    padding: 0px;
+    margin-bottom: 10px;
+    font-size: 62px;
+    line-height: 1;
+    color: #00568D;
+    font-weight: 100;
+}
+.streamlit_box .streamlit_row .streamlit_col p{
+    margin-bottom: 0px;
+    font-size: 16px;
+    line-height: 1;
+    color: #000000;
+    font-weight: 100;
+}
+
+.nav {
+    background: red !important;
+}
+
+
+
+/* global css start*/
+.box-lg {
+    min-height:295px;
+}
+/* global css end*/
+
+
+@media (min-width: 576px) {
+    .block-container.css-18e3th9 {
+        padding: 20px 20px 10px;
+    }
+}
+
+.css-jyq2k8.e1tzin5v2 {
+    display: none;
+}
+
+.css-qczr40.e1tzin5v2 {
+    display: none;
+}
+
+.css-4bpfzv.e1tzin5v2 {
+    display: flex;
+    align-items: center;
+}
+
+/* .css-keje6w.e1tzin5v2 {
+    display: none;
+} */
+
+.css-2my5gv.e1tzin5v2 {
+    display: none;
+}
+
+.css-103io85.e1tzin5v2 {
+    opacity: 0;
+}
+
+
+footer {
+    display: none !important;
+}
+
+a.viewerBadge_container__1QSob {
+    display: none;
+}
+
+.custom_footer {
+    padding: 10px;
+    color: #00568d;
+}
+
+.css-wf3vnq.e1tzin5v2{
+    padding: 15px;
+}
+
+.css-73yqgz.e1tzin5v3 .stSelectbox{
+    display : flex; 
+}
+
+.css-73yqgz.e1tzin5v3 .stSelectbox .effi0qh3{
+    color:#00568D; 
+    padding:5px 15px; 
+    font-family:'Segoe UI'; 
+    font-size:20px;
+    width:30%;
+} 
+
+.recomm_prod .css-zt5igj.e16nr0p33{
+    left: auto;
+    justify-content: center;
+    width: 100%;
+}
+
+.recomm_prod .css-zt5igj.e16nr0p33 .css-10trblm.e16nr0p30{
+    margin-left: 9px;
+    text-align: left;    
+    padding: 10px;
+}
+
+.css-zt5igj.e16nr0p32{
+    padding-left:20px;
+}
